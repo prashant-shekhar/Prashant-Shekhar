@@ -23,6 +23,8 @@
 [![Prashant Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-shekhar&show_icons=true)](https://github.com/prashant-shekhar)
 </br>
 <br/>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</br>
 <h3> 🤝🏻 Connect with Me </h3>
 <p>
 <a href="https://dev.to/@prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
@@ -34,9 +36,6 @@
 </p>
 <br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends.</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
-**⭐️ From [Prashant Shekhar](https://github.com/prashant-shekhar)**
-
 <img src="https://github.com/prashant-shekhar/Prashant-Shekhar/blob/master/dino.gif">
 
+**⭐️ From [Prashant Shekhar](https://github.com/prashant-shekhar)**
