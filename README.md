@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
 <h3 align="center">Machine Learning Team Lead at Naaniz</h3>
 
-- 👨‍💻 All of my projects are available at [https://prashant-shekhar.github.io/](https://prashant-shekhar.github.io/)
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 📝 I regulary write articles on [https://medium.com/@toprashantshekhar](https://medium.com/@toprashantshekhar)
+- 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
+- 💼 &nbsp; Machine Learning Team Lead at Naaniz
+- 🌱 I’m currently learning MongoDB and Data Visualization.
+- 💬 &nbsp; ACTIVELY LOOKING FOR FULL-TIME OPPORTUNITIES
 
-- 📫 How to reach me **toprashantshekhar@gmail.com**
 
-- ⚡ Fun fact **Buddha with Zorba**
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C++ | Python 
+- 🌐 &nbsp; Deep Learning| Data Visualization| Machine Learning
+- 🛢 &nbsp; SQL | MongoDB
+- 🔧 &nbsp; GitHub | Jupyter Notebook | Power BI |
+
+
+<br/>
+
+[![Prashant Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsrohan&show_icons=true)](https://github.com/prashant-shekhar)
 
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center">
 <a href="https://dev.to/@prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
