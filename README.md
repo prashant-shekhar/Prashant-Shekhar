@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
+<h3 align="center">Machine Learning Team Lead at Naaniz</h3>
 
-<!--
-**prashant-shekhar/Prashant-Shekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 All of my projects are available at [https://prashant-shekhar.github.io/](https://prashant-shekhar.github.io/)
 
-Here are some ideas to get you started:
+- 📝 I regulary write articles on [https://medium.com/@toprashantshekhar](https://medium.com/@toprashantshekhar)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me **toprashantshekhar@gmail.com**
+
+- ⚡ Fun fact **Buddha with Zorba**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center">
+<a href="https://dev.to/@prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
+<a href="https://twitter.com/@imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imzorba" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/toprashantshekhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/toprashantshekhar/" height="20" width="20" /></a>
+<a href="https://kaggle.com/zorbaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zorbaa" height="20" width="20" /></a>
+<a href="https://instagram.com/@imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@imzorba" height="20" width="20" /></a>
+<a href="https://medium.com/@toprashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@toprashantshekhar" height="20" width="20" /></a>
+</p>
