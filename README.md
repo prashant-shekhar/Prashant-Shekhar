@@ -24,7 +24,7 @@
 </br>
 <br/>
 <br/>
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 </br>
 <p align="center">
 <a href="https://dev.to/@prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
