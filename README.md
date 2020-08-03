@@ -21,6 +21,7 @@
 <br/>
 
 [![Prashant Shekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant-shekhar&show_icons=true)](https://github.com/prashant-shekhar)
+</br>
 <a href="https://dev.to/@prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
 <a href="https://twitter.com/@imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imzorba" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/toprashantshekhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/toprashantshekhar/" height="20" width="20" /></a>
