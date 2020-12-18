@@ -5,8 +5,7 @@
 
 - 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
 - 💼 &nbsp; Machine Learning Team Lead at Naaniz
-- 🌱 I’m currently learning MongoDB and Data Visualization.
-- 💬 &nbsp; ACTIVELY LOOKING FOR FULL-TIME OPPORTUNITIES
+- 🌱 I’m currently learning Ruby on Rails.
 
 
 
