@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
 - 💼 &nbsp; Machine Learning Team Lead at Naaniz
-- 🌱 I’m currently learning Ruby on Rails.
+- 🌱 &nbsp; I’m currently learning Ruby on Rails.
 
 
 
