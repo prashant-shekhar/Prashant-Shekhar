@@ -4,8 +4,8 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
-- 💼 &nbsp; Machine Learning Team Lead at Naaniz
-- 🌱 &nbsp; I’m currently learning Ruby on Rails.
+- 💼 &nbsp; Artificial Intelligence and Analytics at Cognizant
+- 🌱 &nbsp; I’m currently learning Informatica.
 
 
 
@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; C++ | Python 
 - 🌐 &nbsp; Deep Learning| Data Visualization| Machine Learning
-- 🛢 &nbsp; SQL | MongoDB
+- 🛢 &nbsp; SQL 
 - 🔧 &nbsp; GitHub | Jupyter Notebook | Power BI 
 
 
