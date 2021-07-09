@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
-<h3 align="center">Every war is won in its Preparation!</h3>
+<h3 align="center">I believe that Every war is won in its Preparation!</h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
