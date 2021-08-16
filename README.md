@@ -5,7 +5,7 @@
 
 - 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
 - 💼 &nbsp; Artificial Intelligence and Analytics at Cognizant
-- 🌱 &nbsp; I’m currently learning Informatica.
+- 🌱 &nbsp; I’m currently learning more about AI.
 
 
 
