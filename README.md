@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Final Year CSE Student at Jaypee Institute of Information Technology 
+- 🎓 &nbsp; B.Tech Graduate in Computer Science from Jaypee Institute of Information Technology, Batch of 2021.
 - 💼 &nbsp; Artificial Intelligence and Analytics at Cognizant
 - 🌱 &nbsp; I’m currently learning more about AI.
 
