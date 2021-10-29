@@ -26,12 +26,12 @@
 </br>
 <h3 align="center"> 🤝 Connect with Me 🏻 </h3>
 <p align="center">
-<a href="https://dev.to/@prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
-<a  href="https://twitter.com/@imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imzorba" height="20" width="20" /></a>
+<a href="https://dev.to/prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
+<a  href="https://twitter.com/imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imzorba" height="20" width="20" /></a>
 <a  href="https://www.linkedin.com/in/toprashantshekhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/toprashantshekhar/" height="20" width="20" /></a>
 <a  href="https://kaggle.com/zorbaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zorbaa" height="20" width="20" /></a>
-<a  href="https://instagram.com/@imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@imzorba" height="20" width="20" /></a>
-<a align="center" href="https://medium.com/@toprashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@toprashantshekhar" height="20" width="20" /></a>
+<a  href="https://instagram.com/imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@imzorba" height="20" width="20" /></a>
+<a align="center" href="https://medium.com/toprashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@toprashantshekhar" height="20" width="20" /></a>
 </p>
 <br/>
 
