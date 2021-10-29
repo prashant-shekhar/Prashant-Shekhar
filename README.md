@@ -4,16 +4,16 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; B.Tech Graduate in Computer Science from Jaypee Institute of Information Technology, Batch of 2021.
-- 💼 &nbsp; Artificial Intelligence and Analytics at Cognizant
-- 🌱 &nbsp; I’m currently learning more about AI.
+- 💼 &nbsp; Data Scientist at Open Insights
+- 🌱 &nbsp; I’m currently learning Spark, Scala, Java and AWS.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Python 
+- 💻 &nbsp; C++ | Python | Java | C
 - 🌐 &nbsp; Deep Learning| Data Visualization| Machine Learning
-- 🛢 &nbsp; SQL 
+- 🛢 &nbsp; SQL | AWS | Statistics | Probability
 - 🔧 &nbsp; GitHub | Jupyter Notebook | Power BI 
 
 
