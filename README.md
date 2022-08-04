@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
-<h3 align="center">I believe that Every war is won in its Preparation!</h3>
+<h3 align="center">Prashant Shekhar is a data scientist and consultant that works with numerous companies to scale up using data-driven strategies. Prashant is skilled in assisting companies with Industry 4.0 in their digital transformation. He is proficient in creating data pipelines and improving data platforms. He assist businesses in monetizing their data and creating new revenue streams from it. </h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; B.Tech Graduate in Computer Science from Jaypee Institute of Information Technology, Batch of 2021.
 - 💼 &nbsp; Data Scientist at Open Insights
-- 🌱 &nbsp; I’m currently learning Spark, Scala, Java and AWS.
+- 🌱 &nbsp; Data Consultant at Paysafe India
+- 🎓 &nbsp; B.Tech Graduate in Computer Science from Jaypee Institute of Information Technology, Batch of 2021.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C++ | Python | Java | C
-- 🌐 &nbsp; Deep Learning| Data Visualization| Machine Learning
-- 🛢 &nbsp; SQL | AWS | Statistics | Probability
-- 🔧 &nbsp; GitHub | Jupyter Notebook | Power BI 
+- 💻 &nbsp; Programming Language :  C++ | Python | Java | C | Scala
+- 🌐 &nbsp; Data Science : Machine Learning | Deep Learning | Tableau | SQL | Keras | Tensorflow | Statistics | Probability | MSExcel
+- 🛢 &nbsp; Big Data : Hadoop | Spark | Hive | Kafka | Map Reduce | AWS 
+- 🔧 &nbsp; Tools : GitHub | Jupyter Notebook  | IntelliJ | Unix | VSCode 
 
 
 <br/>
@@ -26,7 +26,7 @@
 </br>
 <h3 align="center"> 🤝 Connect with Me 🏻 </h3>
 <p align="center">
-<a href="https://dev.to/prashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
+<a href="https://prashantshekhar.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@prashantshekhar" height="20" width="20" /></a>
 <a  href="https://twitter.com/imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imzorba" height="20" width="20" /></a>
 <a  href="https://www.linkedin.com/in/toprashantshekhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/toprashantshekhar/" height="20" width="20" /></a>
 <a  href="https://kaggle.com/zorbaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zorbaa" height="20" width="20" /></a>
