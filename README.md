@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
-<h3 align="center">Prashant Shekhar is a data scientist and consultant that works with numerous companies to scale up using data-driven strategies. Prashant is skilled in assisting companies with Industry 4.0 in their digital transformation. He is proficient in creating data pipelines and improving data platforms. He assist businesses in monetizing their data and creating new revenue streams from it. </h3>
+<h3 >Prashant Shekhar is a data scientist and consultant that works with numerous companies to scale up using data-driven strategies. Prashant is skilled in assisting companies with Industry 4.0 in their digital transformation. He is proficient in creating data pipelines and improving data platforms. He assist businesses in monetizing their data and creating new revenue streams from it. </h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
