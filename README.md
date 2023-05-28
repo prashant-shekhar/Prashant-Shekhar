@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
-<h3 >As a tech enthusiast, I specialize in automating businesses within the SaaS industry. I offer services like software development and automating existing business processes to streamline operations.
+<h5 >As a tech enthusiast, I specialize in automating businesses within the SaaS industry. I offer services like software development and automating existing business processes to streamline operations.
 
 I'm also the proud founder and owner of Cubical Media, a marketing agency that provides SEO services as well as Google, Facebook, and LinkedIn Ads.
 
 Additionally, I'm the founder of Ottivio Solutions, where we help businesses scale by creating data platforms, developing software, and providing business automation solutions.
 
-Let's connect and see how I can help automate and scale your business! </h3>
+Let's connect and see how I can help automate and scale your business! </h5>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
