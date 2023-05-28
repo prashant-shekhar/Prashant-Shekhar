@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
-<h3 >Prashant Shekhar is a data scientist and consultant that works with numerous companies to scale up using data-driven strategies. Prashant is skilled in assisting companies with Industry 4.0 in their digital transformation. He is proficient in creating data pipelines and improving data platforms. He assist businesses in monetizing their data and creating new revenue streams from it. </h3>
+<h3 >As a tech enthusiast, I specialize in automating businesses within the SaaS industry. I offer services like software development and automating existing business processes to streamline operations.
+
+I'm also the proud founder and owner of Cubical Media, a marketing agency that provides SEO services as well as Google, Facebook, and LinkedIn Ads.
+
+Additionally, I'm the founder of Ottivio Solutions, where we help businesses scale by creating data platforms, developing software, and providing business automation solutions.
+
+Let's connect and see how I can help automate and scale your business! </h3>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
