@@ -1,24 +1,26 @@
-<h1 align="center">Hello 👋, Meet Prashant Shekhar</h1>
-<h5>Embark on a journey with Prashant Shekhar, a visionary in the tech world who blends innovation with practicality. From the bustling tech hub of Bangalore, Prashant has shaped a career that transcends mere coding. His expertise in data science and automation within the SaaS landscape is transforming the way businesses operate in the digital era.
-Prashant's early career was a deep dive into data science with Open Insights, unraveling the intricate stories behind data. Collaborating with Northeastern University Boston, he pushed the frontiers of data's potential. His stint at Paysafe as a Data Consultant marked a significant leap, where he mastered the complexities of big data and Hadoop.
+<h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
+<h5 >As a tech enthusiast, I specialize in automating businesses within the SaaS industry. I offer services like software development and automating existing business processes to streamline operations.
 
-What sets Prashant apart is his venture into SaaS and automation. Merging data science know-how with skills in Python and automation tools like Parabola, Zapier, and Airtable, he's crafted niche, streamlined solutions that redefine SaaS environments. His knack for transforming complex data into straightforward, actionable strategies has not only benefited his clients but established him as a trailblazer.
+I'm also the proud founder and owner of Cubical Media, a marketing agency that provides SEO services as well as Google, Facebook, and LinkedIn Ads.
 
-But it's not just about technical skills. Prashant's leadership ability, demonstrated in leading a team of ten, showcases his knack for uniting diverse talents towards a common vision of tech excellence.
+Additionally, I'm the founder of Ottivio Solutions, where we help businesses scale by creating data platforms, developing software, and providing business automation solutions.
 
-Now, at 26, Prashant isn't just a professional; he's a tech maestro, seeing beyond codes to a future where technology catalyzes growth and efficiency. As he continues to serve multiple clients remotely, his path reflects a dedication to continuous learning and leveraging technology for transformative business solutions.
-
-Prashant Shekhar isn't just a data scientist or a SaaS developer. He's the architect of digital solutions, making data dance and businesses thrive in the 21st century's digital symphony."</h5>
+Let's connect and see how I can help automate and scale your business! </h5>
 
 <h3> 👨🏻‍💻 About Me </h3>
-💼   Data Science, Automation, and SaaS: A Triad of Expertise
-🌱   Trailblazer in Big Data and SaaS Product Development
-🎓   Alumnus of Jaypee Institute of Information Technology, Computer Science, Class of 2021.
-<h3>🛠 My Tech Stack</h3>
-💻   Versatile in Programming Languages: C++, Python, Java, C, Scala
-🌐   Data Science Virtuoso: From Machine Learning to Deep Learning and Beyond
-🛢   Big Data Maestro: Harnessing the Power of Hadoop, Spark, and AWS
-🔧   Tools: Mastering GitHub, Jupyter Notebook, and More for Technological Excellence
+
+- 💼 &nbsp; Data Scientist at Open Insights
+- 🌱 &nbsp; Data Consultant at Paysafe India
+- 🎓 &nbsp; B.Tech Graduate in Computer Science from Jaypee Institute of Information Technology, Batch of 2021.
+
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Programming Language :  C++ | Python | Java | C | Scala
+- 🌐 &nbsp; Data Science : Machine Learning | Deep Learning | Tableau | SQL | Keras | Tensorflow | Statistics | Probability | MSExcel
+- 🛢 &nbsp; Big Data : Hadoop | Spark | Hive | Kafka | Map Reduce | AWS 
+- 🔧 &nbsp; Tools : GitHub | Jupyter Notebook  | IntelliJ | Unix | VSCode 
 
 
 <br/>
