@@ -10,7 +10,7 @@ My expertise spans **data engineering, software development, and AI-driven autom
 <h3>💡 What I Do</h3>
 
 - **🚀 Founder of QuickAutomation.io** – Helping businesses automate and streamline operations through software & AI-driven workflows.  
-- **💻 Building SaaS Products** – Running **Leadkart.io** (lead extraction & data enrichment) and **Egobooster.io** (personalized AI-driven outreach tool).  
+- **💻 Building SaaS Products** – Building lead extraction & data enrichment platform and **Egobooster.io** (personalized AI-driven outreach tool).  
 - **🛠 Tech Consulting & Custom Software Development** – Assisting global companies in **data engineering, automation, and scalable software development**.  
 - **📊 Lead Generation & B2B Data Intelligence** – Automating **data extraction, enrichment, and outreach** for agencies & businesses.  
 
@@ -28,7 +28,6 @@ My expertise spans **data engineering, software development, and AI-driven autom
 
 <h3>🚀 Featured Projects</h3>
 
-- **🔹 Leadkart.io** – A no-code Apollo, Sales Navigator, and G2 data extraction tool with built-in lead enrichment.  
 - **🔹 Egobooster.io** – AI-powered SaaS that generates **personalized LinkedIn & email outreach lines** for higher engagement.  
 - **🔹 Data Automation Pipelines** – Scalable **B2B data workflows** for Y Combinator startups and Fortune 500 clients.  
 - **🔹 B2B Sales Automation** – Automating **lead generation & outreach**, reducing manual effort by 80%.  
