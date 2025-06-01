@@ -1,60 +1,68 @@
 <h1 align="center">✨ Prashant Shekhar</h1>
 <h3 align="center">
-Founder, <a href="https://quickautomation.io" target="_blank">QuickAutomation.io</a>  
-Backend Engineer | Automation Architect | B2B Systems Expert
+Founder of QuickAutomation.io · Leadkart.io · CubicalMedia.com · StarLeads.io · Voizor.ai  
+Backend Engineer · Automation Architect · B2B Growth Systems Specialist
 </h3>
 
-<p align="center"><em>Helping businesses simplify operations, scale intelligently, and build future-ready infrastructure.</em></p>
+<p align="center"><em>Solving real business problems with data, backend engineering, and automation. Enabling startups and agencies to scale faster and smarter.</em></p>
 
 ---
 
-<p align="center"><strong>🔍 Searching for "Who is Prashant Shekhar?" or "Prashant Shekhar GitHub"? You’ve found the source.</strong></p>
+<p align="center"><strong>🔍 Looking for "Who is Prashant Shekhar?" or "Prashant Shekhar GitHub"? You’re in the right place.</strong></p>
 
 ---
 
-## 💼 About Me
+## 🧠 About Me
 
-I’m a backend engineer and automation consultant who builds **high-performance systems** that drive **growth, efficiency, and scale**. As the founder of [QuickAutomation.io](https://quickautomation.io), I work with funded startups, fast-growing agencies, and ambitious teams to build the backends, scrapers, APIs, and workflows that power real business results.
+I’m a backend engineer, automation strategist, and serial founder. I build scalable systems that power modern B2B businesses—from data extraction and enrichment to automation-driven growth engines.
 
-I don't just write code — I build **revenue-critical infrastructure** that runs 24/7, scales with your users, and adapts to your GTM strategy.
+Currently leading:
 
----
-
-## 🧠 What I Help With
-
-- 🔁 Automating complex, time-consuming business operations  
-- ⚙️ Designing backend systems for modern SaaS products  
-- 📊 Structuring data pipelines that drive sales and insights  
-- 🚀 Accelerating launch-to-scale journey for growth-stage startups  
-- 🤝 Consulting with founders & CTOs to solve real business bottlenecks
+- 🔧 **[QuickAutomation.io](https://quickautomation.io)** – Backend and automation agency for high-growth businesses  
+- 📊 **[Leadkart.io](https://leadkart.io)** – Enrichment engine for B2B data and custom data pipelines  
+- 🎯 **[CubicalMedia.com](https://cubicalmedia.com)** – Ads & SEO sprints for traffic and conversion growth  
+- 🤖 **[StarLeads.io](https://starleads.io)** – Pay-per-lead system for qualified B2B appointments  
+- 🗣 **[Voizor.ai](https://voizor.ai)** – AI-powered SDR platform for sales coaching and call analysis  
 
 ---
 
-## 🛠 Technical Mastery
+## 💼 What I Help You Solve
 
-| Domain | Stack |
-|--------|-------|
-| **Backend Development** | Python, FastAPI, Flask, Django |
-| **Scraping & Automation** | Playwright, AsyncIO, Proxies, Pandas, BeautifulSoup |
-| **Infrastructure & DevOps** | Docker, Redis, Celery, AWS (EC2, S3, SES), Nginx |
-| **Automation Workflows** | Make.com, Airtable API, Google Apps Script |
-| **Data & Integrations** | PostgreSQL, Stripe, Webhooks, Serverless, REST APIs |
+- Replace manual ops with intelligent automation  
+- Build production-grade APIs and backend systems  
+- Extract and enrich sales data from LinkedIn, Apollo, G2, and more  
+- Automate GTM workflows: Data → Enrich → Outreach → CRM  
+- Structure your stack to support scale, clarity, and speed
 
 ---
 
-## 📌 Products & Projects
+## 🔧 Tech Stack
 
-- **[QuickAutomation.io](https://quickautomation.io)** – High-impact automation & SaaS backend development agency  
-- **[Leadkart.io](https://leadkart.io)** – Self-serve platform for enriched B2B leads and custom API-based data delivery  
-- **Trusted by YC-backed & global startups** – Projects delivered for brands like Saphira.ai, SalesAsk.com, JoinRelentless.com
+| Category | Tools |
+|---------|-------|
+| **Backend** | Python, FastAPI, Flask, Django |
+| **Data & Scraping** | Playwright, AsyncIO, BeautifulSoup, Pandas |
+| **Infra & DevOps** | Docker, Redis, Celery, Nginx, AWS (EC2, S3, SES) |
+| **Automation** | Make.com, Airtable API, Google Apps Script |
+| **Database & APIs** | PostgreSQL, Webhooks, Stripe, REST/Serverless APIs |
 
 ---
 
-## 🤝 Let's Collaborate
+## 🚀 What We Can Do Together
 
-Looking to automate your operations, enrich your data pipelines, or build a SaaS backend that scales effortlessly?
+- **QuickAutomation.io** – Automate a painful process & get a working blueprint  
+- **Leadkart.io** – Live enrichment of 10 leads from top B2B data sources, pushed to your CRM  
+- **CubicalMedia.com** – Launch high-conversion SEO + ad campaigns with KPI tracking  
+- **StarLeads.io** – Book 25–30 qualified B2B meetings in 90 days with AI + filters  
+- **Voizor.ai** – Analyze a sales call, improve scripts, and unlock real-time sales coaching  
 
-📅 [**Book a 1:1 Strategy Call**](https://tidycal.com/prashantshekhar) – let’s unlock the next stage of your business.
+---
+
+## 📅 Book a Call
+
+Whether you’re scaling up, cleaning up, or automating workflows—I’m happy to explore it with you.
+
+👉 [**Book a Strategy Call**](https://tidycal.com/prashantshekhar)
 
 ---
 
@@ -69,7 +77,7 @@ Looking to automate your operations, enrich your data pipelines, or build a SaaS
 
 ---
 
-## 📊 GitHub Snapshot
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prashant-shekhar&show_icons=true&theme=radical" />
@@ -77,10 +85,10 @@ Looking to automate your operations, enrich your data pipelines, or build a SaaS
 
 ---
 
-<h3 align="center">⚙️ Automate Smart. Build Clean. Scale Like a Pro.</h3>
+<h3 align="center">⚙️ Automate Better · Build Smarter · Scale Fearlessly</h3>
 
 <p align="center">
   <img src="https://github.com/prashant-shekhar/Prashant-Shekhar/blob/master/dino.gif" alt="Let's build!" />
 </p>
 
-⭐️ Curated with care by [Prashant Shekhar](https://prashantshekhar.com)
+⭐️ Profile built by [Prashant Shekhar](https://prashantshekhar.com)
