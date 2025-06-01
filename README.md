@@ -1,48 +1,73 @@
-<h1 align="center">Hi 👋, I'm Prashant Shekhar</h1>
-<h5 align="center">
-🚀 Entrepreneur | Tech Consultant | SaaS Builder  
-I specialize in automating business processes, developing cutting-edge SaaS products, and consulting for startups & enterprises.  
-My expertise spans **data engineering, software development, and AI-driven automation** to optimize workflows and drive efficiency.  
-</h5>
+<h1 align="center">Hi 👋 I'm Prashant Shekhar</h1>
+<h4 align="center">
+Founder – QuickAutomation.io | Backend Engineer | Automation Specialist  
+I help businesses automate operations, extract intelligence from data, and scale faster with clean backend systems.
+</h4>
 
 ---
 
-<h3>💡 What I Do</h3>
+<p align="center"><strong>Searching for "Who is Prashant Shekhar?" or "Prashant Shekhar GitHub"? You’ve landed in the right place.</strong></p>
 
-- **🚀 Founder of QuickAutomation.io** – Helping businesses automate and streamline operations through software & AI-driven workflows.  
-- **💻 Building SaaS Products** – Building lead extraction & data enrichment platform and **Egobooster.io** (personalized AI-driven outreach tool).  
-- **🛠 Tech Consulting & Custom Software Development** – Assisting global companies in **data engineering, automation, and scalable software development**.  
-- **📊 Lead Generation & B2B Data Intelligence** – Automating **data extraction, enrichment, and outreach** for agencies & businesses.  
+I’m a backend engineer and entrepreneur focused on solving **growth, efficiency, and data challenges** for startups and agencies.
 
----
-
-<h3>🛠 Tech Stack</h3>
-
-- **💻 Programming Languages:** Python (FastAPI, Django, Flask), Java, C++  
-- **⚙️ Frameworks & Cloud:** Microservices, AWS, GCP, Kubernetes, Terraform  
-- **📊 Data & AI:** Apache Spark, Airflow, TensorFlow, Snowflake, BigQuery  
-- **🔧 Automation & DevOps:** CI/CD, Docker, Serverless Functions  
-- **📈 Growth & Analytics:** AI-driven sales automation, conversion tracking  
+Through my company [QuickAutomation.io](https://quickautomation.io), I build systems that automate repetitive workflows, extract valuable insights, and power scalable SaaS products — especially for lead generation, data operations, and GTM automation.
 
 ---
 
-<h3>🚀 Featured Projects</h3>
+<h3>🔧 What Problems I Solve</h3>
 
-- **🔹 Egobooster.io** – AI-powered SaaS that generates **personalized LinkedIn & email outreach lines** for higher engagement.  
-- **🔹 Data Automation Pipelines** – Scalable **B2B data workflows** for Y Combinator startups and Fortune 500 clients.  
-- **🔹 B2B Sales Automation** – Automating **lead generation & outreach**, reducing manual effort by 80%.  
+- Automating complex business workflows to save time and reduce manual effort  
+- Structuring reliable backend systems for high-scale SaaS tools  
+- Building clean APIs for data processing, enrichment, and distribution  
+- Scaling GTM operations using intelligent data pipelines  
+- Consulting on backend strategy, system design, and dev team enablement
 
 ---
 
-<h3 align="center"> 🤝 Connect with Me </h3>
+<h3>🧠 What I Bring to the Table</h3>
+
+- Strong backend engineering skills with **Python, FastAPI, Docker, Redis**  
+- Deep understanding of **B2B data workflows, automation tools, and scraping infrastructure**  
+- Experience working with **funded startups** and **growth-stage companies** (e.g. YC-backed teams like Saphira.ai)  
+- Ability to translate vague product ideas into fully working backend architecture  
+- Fast iteration cycles, clear documentation, and scalable codebases
+
+---
+
+<h3>🛠 Tech I Use Regularly</h3>
+
+- **Languages & Frameworks**: Python, FastAPI, Flask, Django  
+- **Infra & Ops**: Docker, Redis, Celery, Nginx, AWS (EC2, S3, SES), PostgreSQL  
+- **Automation & Integration**: Make.com, Google Apps Script, Airtable API  
+- **Scraping & Data**: Playwright, AsyncIO, Proxies, BeautifulSoup, Pandas  
+- **Others**: Stripe, Webhooks, Serverless Functions, Custom APIs
+
+---
+
+<h3>🚀 Real Work That Speaks</h3>
+
+- **QuickAutomation.io** – My automation and software development agency powering backend systems for global clients  
+- **Leadkart.io** – A SaaS product offering enriched B2B leads and data APIs  
+- Have worked with companies like **SalesAsk.com**, **JoinRelentless.com**, **Petastic.com**, and more  
+- Delivered dozens of custom solutions for **lead generation**, **data activation**, and **process automation**
+
+---
+
+<h3>📞 Work With Me</h3>
+
+Want to simplify your operations, build a better backend, or launch a data-driven SaaS product?
+
+👉 [**Book a Strategy Call**](https://tidycal.com/prashantshekhar)
+
+---
+
+<h3 align="center">📬 Connect with Me</h3>
 
 <p align="center">
-<a href="https://prashantshekhar.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="prashantshekhar" height="20" width="20" /></a>
-<a href="https://twitter.com/imzorba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@imzorba" height="20" width="20" /></a>
-<a href="https://www.linkedin.com/in/prashanthshekhar/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
-<a href="https://kaggle.com/zorbaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="zorbaa" height="20" width="20" /></a>
-<a href="https://instagram.com/prashanthshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@imzorba" height="20" width="20" /></a>
-<a href="https://medium.com/toprashantshekhar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@toprashantshekhar" height="20" width="20" /></a>
+<a href="https://prashantshekhar.com" target="_blank"><img src="https://img.shields.io/badge/Website-prashantshekhar.com-blue?style=flat-square" /></a>
+<a href="https://linkedin.com/in/prashantshekhar" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Prashant%20Shekhar-blue?style=flat-square&logo=linkedin" /></a>
+<a href="https://twitter.com/imzorba" target="_blank"><img src="https://img.shields.io/badge/Twitter-@imzorba-1DA1F2?style=flat-square&logo=twitter" /></a>
+<a href="https://medium.com/@toprashantshekhar" target="_blank"><img src="https://img.shields.io/badge/Medium-@toprashantshekhar-black?style=flat-square&logo=medium" /></a>
 </p>
 
 ---
@@ -50,13 +75,15 @@ My expertise spans **data engineering, software development, and AI-driven autom
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-shekhar&show_icons=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=prashant-shekhar&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
 </p>
 
 ---
 
-<h3 align="center">🔥 Let's Automate, Optimize & Scale Together! 🚀</h3>
+<h3 align="center">⚙️ Automate Better. Build Smarter. Scale Faster.</h3>
 
-<img src="https://github.com/prashant-shekhar/Prashant-Shekhar/blob/master/dino.gif">
+<p align="center">
+  <img src="https://github.com/prashant-shekhar/Prashant-Shekhar/blob/master/dino.gif" alt="Let's build!" />
+</p>
 
-**⭐️ From [Prashant Shekhar](https://github.com/prashant-shekhar)**
+⭐️ Profile by [Prashant Shekhar](https://prashantshekhar.com)
